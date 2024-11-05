@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iraxioko.github.io/Pcl/sitemap_index.txt
+Sitemap: https://iraxioko.github.io/QRO/sitemap_index.txt
+Sitemap: https://iraxioko.github.io/XSI/sitemap_index.txt
+Sitemap: https://iraxioko.github.io/pIo/sitemap_index.txt
